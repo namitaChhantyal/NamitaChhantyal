@@ -238,12 +238,11 @@ h3.my-profession{
     width: 80px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
-    left: -20px;
+    left: 10px;
     top: -40px;
 }
 .home .home-img img{
     margin: auto; 
-
     height: 400px;
 }
  
